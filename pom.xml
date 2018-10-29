@@ -19,7 +19,7 @@
                 <version>2.8.0</version>
                 <configuration>
                     <overrideConfigCompilerVersion>true</overrideConfigCompilerVersion>
-                    <configFile>${project.basedir}/apris_code_formatter_config.xml</configFile>
+                    <configFile>${project.basedir}/code_formatter_config.xml</configFile>
                 </configuration>
             </plugin>
         </plugins>
